@@ -17,12 +17,3 @@ def main():
 if __name__ == "__main__":
   main()
 
-##version debug info
-#import platform
-#print ()
-#print ()
-#print ('P Y T H O N  D E B U G')
-#print ('----------------------')
-#print ('Current platform is: ', (platform.python_version()))
-#print ('Running on:', (platform.platform()))
-
