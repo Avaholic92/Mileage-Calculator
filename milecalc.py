@@ -2,11 +2,6 @@
 #
 # mileage reimbursement calculator
 #
-
-#imports
-import math
-
-
 def main():
 	miles = float (input('Total miles driven: '))
 	rate = float(.535)
