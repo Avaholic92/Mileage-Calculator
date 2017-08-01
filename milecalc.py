@@ -18,7 +18,7 @@ if __name__ == "__main__":
   main()
 
 ##version debug info
-import platform
+#import platform
 #print ()
 #print ()
 #print ('P Y T H O N  D E B U G')
