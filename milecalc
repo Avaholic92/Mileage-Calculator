@@ -1,0 +1,14 @@
+#!/usr/bin/python3
+#
+# mileage reimbursement calculator
+#
+def main():
+	miles = float (input('Total miles driven: '))
+	rate = float(.535)
+	calc = (miles * rate) 
+	total = round(calc)
+	print ('Your reimbursement total is: $',total)  
+    
+if __name__ == "__main__":
+  main()
+
